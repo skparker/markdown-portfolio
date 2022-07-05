@@ -1,1 +1,1 @@
-[skparker GitHub](https://github.com/skparker)
+[skparker](https://github.com/skparker)
